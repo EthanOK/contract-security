@@ -13,3 +13,10 @@
 
 ## 3.链上合约攻击事件
 [contract-attacks](https://github.com/EthanOK/contract-attacks)
+
+## 4. DeFi Hacks Reproduce
+[DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs)
+
+## 5. Contract Vulnerabilities
+[DeFiVulnLabs](https://github.com/SunWeb3Sec/DeFiVulnLabs)
+
